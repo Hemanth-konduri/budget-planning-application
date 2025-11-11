@@ -1,0 +1,21 @@
+{
+  "name": "budget-planning-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
+    "start": "cd backend && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hemanth-konduri/budget-planning-application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hemanth-konduri/budget-planning-application/issues"
+  },
+  "homepage": "https://github.com/Hemanth-konduri/budget-planning-application#readme"
+}
